@@ -1,4 +1,4 @@
 # Loss and damage fund: a satellite imagery driven framework for rapid resource allocation in flood scenario
 This repository is based on the publication:.........
 # Satellite Imagery for Rapid Allocation of Funds (SIRAF)
-![Framework (](https://github.com/jeremyEudaric/SIFRAF/assets/79277563/3fa837f3-75c6-496d-a4d6-893551985ef6)
+![1](https://github.com/user-attachments/assets/06c52887-88b8-4716-9514-a867d6811af0)
