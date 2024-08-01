@@ -9,4 +9,4 @@ WE overlay each city's administrative boundary with the footprint to get the num
 
 **Population exposure**
 
-You can download the population at this link: https://www.worldpop.org/. We can follow the method for the building exposure. We can calculate the total number of people in each municipality and the number of people flooded with the tool * Zonal statistic*
+You can download the population at this link: https://www.worldpop.org/. We can follow the method for the building exposure. We can calculate the total number of people in each municipality and the number of people flooded with the tool * Zonal statistic*.
